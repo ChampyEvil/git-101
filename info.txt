@@ -1,1 +1,4 @@
 Name: Champ
+tel: 0823024921
+Address: Nonthaburi
+Birthday: 21/04/1992
